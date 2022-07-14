@@ -1,5 +1,5 @@
 # LWC-Projects
-<h2>LWC- Project 1:</h2>
+<h2>LWC- Hello World:</h2>
 
 <p align="center">
 <br/>
