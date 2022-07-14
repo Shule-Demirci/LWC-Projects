@@ -8,11 +8,12 @@
 <br />
   <br/>
 
-<h2>Expressions:</h2>
-
+<h2>Contact Creator:</h2>
+<p> Deploy a Component That Lists Contacts</p><br></br>
+<p>Create a Lightning web component that uses @wire in an Apex controller to retrieve contact records. Display the contact records in a lightning-datatable. </p>
 <p align="center">
 <br/>
-<img src="Expressions.png"/>
+<img src="CreateContact.png"/>
 <br />
 <br />
   <br/>
