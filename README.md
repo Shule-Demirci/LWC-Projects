@@ -18,4 +18,13 @@
 <br />
   <br/>
 
+<h2>Account Creator:</h2>
+<p> Deploy a Component for Creating Accounts</p>
+<p>Use lightning-record-form to create a Lightning web component that allows you to create account records. </p>
+<p align="center">
+<br/>
+<img src="accountCreator/AccountCreator.png"/>
+<br />
+<br />
+  <br/>
 
