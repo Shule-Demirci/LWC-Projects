@@ -9,11 +9,13 @@
   <br/>
 
 <h2>Contact Creator:</h2>
-<p> Deploy a Component That Lists Contacts</p>
-<p>Create a Lightning web component that uses @wire in an Apex controller to retrieve contact records. Display the contact records in a lightning-datatable. </p>
+<p> Deploy a Component for Creating Contacts</p>
+<p>Use lightning-record-form to create a Lightning web component that allows you to create contact records. </p>
 <p align="center">
 <br/>
 <img src="CreateContact.png"/>
 <br />
 <br />
   <br/>
+
+Use lightning-record-form to create a Lightning web component that allows you to create contact records.
