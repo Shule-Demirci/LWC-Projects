@@ -18,4 +18,4 @@
 <br />
   <br/>
 
-Use lightning-record-form to create a Lightning web component that allows you to create contact records.
+
