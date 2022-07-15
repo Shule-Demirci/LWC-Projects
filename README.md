@@ -28,3 +28,12 @@
 <br />
   <br/>
 
+<h2>Account List:</h2>
+<p> Displays a list of existing Accounts in a lightning-datatable</p>
+<p>Use lightning-record-form to create a Lightning web component that allows you to create account records. </p>
+<p align="center">
+<br/>
+<img src="accountList/AccountList.png"/>
+<br />
+<br />
+  <br/>
