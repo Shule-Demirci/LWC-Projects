@@ -60,3 +60,7 @@ be presented in alert window like below.
 <br />
 <br />
   <br/>
+  <img src="teamWorkLWC/TeamworkAlert.png"/>
+<br />
+<br />
+  <br/>
