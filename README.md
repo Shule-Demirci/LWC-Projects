@@ -69,7 +69,7 @@ be presented in alert window like below.
 <p>Use lightning-record-form to create a Lightning web component that allows you to do basic calculations. </p>
 <p align="center">
 <br/>
-<img src="SimpleCalculator/SimpleCalculator.png"/>
+<img src="simpleCalculator/SimpleCalculator.png"/>
 <br />
 <br />
   <br/>
