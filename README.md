@@ -64,3 +64,12 @@ be presented in alert window like below.
 <br />
 <br />
   <br/>
+   </p>
+   <h2>Calculator:</h2>
+<p>Use lightning-record-form to create a Lightning web component that allows you to do basic calculations. </p>
+<p align="center">
+<br/>
+<img src="SimpleCalculator/SimpleCalculator.png"/>
+<br />
+<br />
+  <br/>
