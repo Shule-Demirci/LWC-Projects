@@ -1,0 +1,28 @@
+<template>
+	<div class="slds-box slds-theme_shade"></div>
+<lightning-card  title="CALCULATOR" icon-name="utility:advanced_function" alternative-text="Connected" >
+    <div class="slds-p-horizontal_small slds-theme_shade">
+			<lightning-input label="Enter Num1" type="number" data-name="number1"  onchange=	{inputNumber1}></lightning-input>
+			<lightning-input label="Enter Num2" data-name="number2" onchange={inputNumber2}>
+			</lightning-input>
+
+		<lightning-input label="Result" data-name="result"   value={result}></lightning-input>
+	 	
+<div class="slds-m-around_medium">
+		<lightning-button label="Add" variant="brand" onclick={doAdd} class="slds-m-left_x-small">
+   			 </lightning-button>
+				<lightning-button label="Sub" variant="brand" onclick={doSub} class="slds-m-left_x-small">
+   				 </lightning-button>
+				<lightning-button label="Mult" variant="brand" onclick={doMult} class="slds-m-left_x-small">
+    				</lightning-button>
+					<lightning-button label="Div" variant="brand" onclick={doDiv} class="slds-m-left_x-small">
+    				</lightning-button>	
+				         <lightning-button
+							variant="destructive-text"
+							label="CLR"
+							onclick={doCRL} class="slds-m-left_x-small slds-truncate"
+						></lightning-button></div>
+					
+   </div>
+</lightning-card>
+</template>
